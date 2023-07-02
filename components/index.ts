@@ -1,3 +1,5 @@
+import CarCard from './CarCard'
+import CardDetails from './CardDetails'
 import CustomButton from './CustomButton'
 import CustomFilters from './CustomFilters'
 import Footer from './Footer'
@@ -14,4 +16,6 @@ export {
   SearchBar,
   CustomFilters,
   SearchManufacturer,
+  CarCard,
+  CardDetails,
 }
